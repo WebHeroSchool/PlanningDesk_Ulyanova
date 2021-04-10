@@ -1,4 +1,4 @@
-.stylenav {
+.menu {
 	font-family: Roboto;
 	font-style: normal;
 	font-weight: 500;
@@ -6,7 +6,7 @@
 	line-height: 21px;
 	color: #000000;
 }
-.styletext {
+.main-content__text {
 	font-family: Roboto;
 	font-style: normal;
 	font-weight: normal;
@@ -14,7 +14,7 @@
 	line-height: 26px;
 	color: #000000;
 }
-.stylebutton {
+.main-content__button {
 	font-family: Roboto;
 	font-style: normal;
 	font-weight: 500;
@@ -30,7 +30,7 @@
 	font-size: 24px;
 	line-height: 32px;
 }
-.styleheader {
+.main-content__title {
 	font-family: PT Serif;
 	font-style: normal;
 	font-weight: bold;
