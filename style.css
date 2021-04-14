@@ -33,12 +33,10 @@
 	padding: 40px 0;
 	padding-left: 44px;
 	position: relative;
-	border: dashed 1px red;
 }
 .logo__circle {
     width: 28px;
     height: 28px;
-    border: dashed 1px red;
     position: absolute;
     top: 50%;
     left: 0;
