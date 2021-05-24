@@ -1,6 +1,7 @@
 .header {
 	display: flex;
 	justify-content: space-between;
+	margin-bottom: 206px;
 }
 
 .logo {
@@ -39,8 +40,8 @@
 }
 
 .menu__item {
-	position: relative;
-	margin-right: 26px;
+    position: relative;
+	  margin-right: 26px;
 	font: 500 18px/21px Roboto, arial, helvetica, sans-serif;
 	color: #000000;
 	text-decoration: none;
@@ -91,35 +92,38 @@ body {
 	margin: 0;
 }
 
-.main-content {
-	padding-top: 206px;
+.main {
+	padding: 0 63% 206px 0;
 	width: 37%;
+	background: top right no-repeat url(img/mainImg.svg);
 }
 
-.main-content__title {
-	font-family: pt_serif;
-	font-weight: bold;
-	font-size: 66px;
-	line-height: 87px;
+.main__title {
+	font: bold 66px/87px Roboto, arial, helvetica, sans-serif;
 	display: flex;
 	align-items: center;
-	margin-bottom: 41;
+	margin: 0 0 40px 0;
 }
 
-.main-content__text {
-	font-family: Roboto;
-	font-weight: normal;
-	font-size: 22px;
-	line-height: 26px;
+.main__title-text_highlight {
+ 	background: #ECF3FF;
+}
+
+.main__text {
+	font: normal 22px/26px Roboto, arial, helvetica, sans-serif;
 	color: #000000;
-	margin-bottom: 41px;
+	margin: 0 0 41px 0;
 }
 
-.main-content__button {
-	font-family: Roboto;
-	font-weight: 500;
-	font-size: 18px;
-	line-height: 21px;
+.main__button {
+	display: inline-block;
+	font: 500 18px/21px Roboto, arial, helvetica, sans-serif;
 	color: #FFFFFF;
+	background: #0056EC;
 	border-radius: 4px;
+	text-decoration: none;
+	transition: opacity .5s;
+}
+	.main__button:hover {
+	opacity: .5;
 }
