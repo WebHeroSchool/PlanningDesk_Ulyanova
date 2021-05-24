@@ -98,7 +98,11 @@ body {
 }
 
 .main__title {
-	font: 700 66px/87px pt_serif;
+	font-family: PT Serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 66px;
+	line-height: 87px;
 	margin: 0 0 40px 0;
 	max-width: 567px;
 	left: calc(50% - 567px/2 - 481.5px);
