@@ -94,14 +94,11 @@ body {
 
 .main {
 	padding: 0 63% 206px 0;
-	width: 37%;
 	background: top right no-repeat url(img/mainimg.svg);
 }
 
 .main__title {
 	font: bold 66px/87px Roboto, arial, helvetica, sans-serif;
-	display: flex;
-	align-items: center;
 	margin: 0 0 40px 0;
 }
 
@@ -120,6 +117,7 @@ body {
 	font: 500 18px/21px Roboto, arial, helvetica, sans-serif;
 	color: #FFFFFF;
 	background: #0056EC;
+	padding: 18px 20px;
 	border-radius: 4px;
 	text-decoration: none;
 	transition: opacity .5s;
