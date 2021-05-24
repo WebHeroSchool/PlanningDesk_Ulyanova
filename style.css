@@ -41,7 +41,7 @@
 
 .menu__item {
     position: relative;
-	  margin-right: 26px;
+	margin-right: 26px;
 	font: 500 18px/21px Roboto, arial, helvetica, sans-serif;
 	color: #000000;
 	text-decoration: none;
@@ -100,6 +100,8 @@ body {
 .main__title {
 	font: bold 66px/87px pt_serif;
 	margin: 0 0 40px 0;
+	max-width: 567px;
+	left: calc(50% - 567px/2 - 481.5px);
 }
 
 .main__title-text_highlight {
@@ -110,6 +112,7 @@ body {
 	font: normal 22px/26px Roboto, arial, helvetica, sans-serif;
 	color: #000000;
 	margin: 0 0 41px 0;
+	max-width: 455px;
 }
 
 .main__button {
