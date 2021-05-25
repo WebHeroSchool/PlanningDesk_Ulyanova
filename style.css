@@ -1,3 +1,7 @@
+.wrapper {
+	margin-left: 195px;
+}
+
 .header {
 	display: flex;
 	justify-content: space-between;
@@ -124,7 +128,7 @@ body {
 	font: 500 18px/21px Roboto, arial, helvetica, sans-serif;
 	color: #FFFFFF;
 	background: #0056EC;
-	padding: 18px 20px;
+	padding: 18px 57px 18px 21px;
 	border-radius: 4px;
 	text-decoration: none;
 	transition: opacity .5s;
