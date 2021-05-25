@@ -1,7 +1,3 @@
-.wrapper {
-	margin-left: 195px;
-}
-
 .header {
 	display: flex;
 	justify-content: space-between;
@@ -87,7 +83,7 @@
 }
 
 .wrapper {
-	margin: auto;
+	margin-left: 195px;
 	width: 80%;
 }
 
