@@ -5,9 +5,11 @@
 }
 
 .logo {
-	font: 24px/32px pt_serif, arial, helvetica, sans-serif;
+	font-family: PT Serif;
 	font-style: normal;
 	font-weight: bold;
+	font-size: 24px;
+	line-height: 32px;
 	padding: 40px 0;
 	padding-left: 44px;
 	position: relative;
