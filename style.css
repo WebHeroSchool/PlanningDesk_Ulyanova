@@ -43,7 +43,6 @@
 	display: flex;
 	align-items: center;
 	padding-top: 6px;
-	margin-left: 2px;
 }
 
 .menu__item {
@@ -103,7 +102,6 @@ body {
 	padding: 73px 63% 206px 0;
 	background: top right no-repeat url(img/mainimg.svg);
 	margin-left: 4px;
-	margin-top: 2px;
 }
 
 .main__title {
