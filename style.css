@@ -5,7 +5,7 @@
 }
 
 .logo {
-	font: bold 24px/32px pt_serif, arial, helvetica, sans-serif;
+	font: 700 bold 24px/32px pt_serif, arial, helvetica, sans-serif;
 	padding: 40px 0;
 	padding-left: 44px;
 	position: relative;
@@ -93,7 +93,7 @@ body {
 }
 
 .main {
-	padding: 76px 63% 206px 0;
+	padding: 73px 63% 206px 0;
 	background: top right no-repeat url(img/mainimg.svg);
 }
 
