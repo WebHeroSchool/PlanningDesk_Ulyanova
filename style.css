@@ -10,7 +10,7 @@
 	font-weight: bold;
 	font-size: 24px;
 	line-height: 32px;
-	padding: 40px 0;
+	padding: 39px 0;
 	padding-left: 44px;
 	position: relative;
 }
@@ -41,6 +41,8 @@
 .menu {
 	display: flex;
 	align-items: center;
+	padding-top: 2px;
+	padding-right: 2px;
 }
 
 .menu__item {
