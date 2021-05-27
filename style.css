@@ -11,7 +11,7 @@
 	font-size: 24px;
 	line-height: 32px;
 	padding: 39px 0;
-	padding-left: 44px;
+	padding-left: 48px;
 	position: relative;
 }
 
@@ -101,7 +101,7 @@ body {
 .main {
 	padding: 73px 63% 206px 0;
 	background: top right no-repeat url(img/mainimg.svg);
-	margin-left: 7px;
+	margin-left: 4px;
 	margin-top: 2px;
 }
 
