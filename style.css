@@ -5,7 +5,9 @@
 }
 
 .logo {
-	font: 700 bold 24px/32px pt_serif, arial, helvetica, sans-serif;
+	font: 24px/32px pt_serif, arial, helvetica, sans-serif;
+	font-style: normal;
+	font-weight: bold;
 	padding: 40px 0;
 	padding-left: 44px;
 	position: relative;
