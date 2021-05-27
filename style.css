@@ -41,8 +41,8 @@
 .menu {
 	display: flex;
 	align-items: center;
-	padding-top: 5px;
-	padding-left: 10px;
+	padding-top: 6px;
+	padding-left: 12px;
 }
 
 .menu__item {
