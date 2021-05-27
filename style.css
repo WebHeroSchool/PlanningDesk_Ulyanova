@@ -42,6 +42,7 @@
 	display: flex;
 	align-items: center;
 	padding-top: 6px;
+	margin-left: 2px;
 }
 
 .menu__item {
