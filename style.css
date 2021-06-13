@@ -169,6 +169,11 @@ body {
 }
 
 @media (max-width: 768px) {
+	.wrapper {
+		margin: auto;
+		width: 87%;
+	}
+
 	.menu {
 		display: none;
 	}
