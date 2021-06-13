@@ -179,7 +179,7 @@ body {
 
 	.logo {
 		left: calc(50% - 28px/2 - 149.5px);
-		margin-top: 24px;
+		padding-top: 24px;
 	}
 
 	.logo__text {
