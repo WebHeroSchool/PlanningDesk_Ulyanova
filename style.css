@@ -178,9 +178,12 @@ body {
 	}
 
 	.logo {
-		display: none;
 		left: calc(50% - 28px/2 - 149.5px);
 		top: 24px;
+	}
+
+	.logo__text {
+		display: none;
 	}
 
 	.main {
