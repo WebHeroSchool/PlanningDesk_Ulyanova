@@ -177,6 +177,12 @@ body {
 		margin-bottom: 28px;
 	}
 
+	.logo {
+		display: none;
+		left: calc(50% - 28px/2 - 149.5px);
+		top: 24px;
+	}
+
 	.main {
 		padding: 74% 0 0;
 		background-size: 74%;
@@ -196,6 +202,7 @@ body {
 
 	.main__button {
 		font: 500 14px/16px Roboto, arial, helvetica, sans-serif;
+		padding: 14px 25px 15px 16px;
 	}
 
 	.bottom {
